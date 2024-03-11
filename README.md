@@ -1,1 +1,3 @@
-# ic_2022_kfilter
+# Filtro de Kalman
+
+Neste Repositório contem toda a relação de Implementação de código desenvolvida ao longo da Iniciação Científica.

@@ -1,0 +1,51 @@
+function,time_us
+CovPred-serial, 43195.00000000
+CovPred-oneMKL, 190807.00000000
+CovPred-oneMKL padded, 165670.00000000
+CovPred-openMP, 45052.00000000
+CovPred-openMP padded, 18447687.00000000
+CovPred-serial, 34315.00000000
+CovPred-oneMKL, 357713.00000000
+CovPred-oneMKL padded, 94918.00000000
+CovPred-openMP, 183741.00000000
+CovPred-openMP padded, 19731.00000000
+CovPred-serial, 34320.00000000
+CovPred-oneMKL, 227495.00000000
+CovPred-oneMKL padded, 72176.00000000
+CovPred-openMP, 30594.00000000
+CovPred-openMP padded, 2421937.00000000
+CovPred-serial, 32764.00000000
+CovPred-oneMKL, 67886.00000000
+CovPred-oneMKL padded, 290939.00000000
+CovPred-openMP, 13216.00000000
+CovPred-openMP padded, 362854.00000000
+CovPred-serial, 37584.00000000
+CovPred-oneMKL, 60716.00000000
+CovPred-oneMKL padded, 257754.00000000
+CovPred-openMP, 12901.00000000
+CovPred-openMP padded, 14798.00000000
+CovPred-serial, 35310.00000000
+CovPred-oneMKL, 73350.00000000
+CovPred-oneMKL padded, 77601.00000000
+CovPred-openMP, 12483.00000000
+CovPred-openMP padded, 209191.00000000
+CovPred-serial, 33898.00000000
+CovPred-oneMKL, 63785.00000000
+CovPred-oneMKL padded, 104754.00000000
+CovPred-openMP, 3063169.00000000
+CovPred-openMP padded, 17800.00000000
+CovPred-serial, 34660.00000000
+CovPred-oneMKL, 124396.00000000
+CovPred-oneMKL padded, 236476.00000000
+CovPred-openMP, 12480.00000000
+CovPred-openMP padded, 1000880.00000000
+CovPred-serial, 45683.00000000
+CovPred-oneMKL, 173360.00000000
+CovPred-oneMKL padded, 192756.00000000
+CovPred-openMP, 14254.00000000
+CovPred-openMP padded, 192651.00000000
+CovPred-serial, 31485.00000000
+CovPred-oneMKL, 383239.00000000
+CovPred-oneMKL padded, 163898.00000000
+CovPred-openMP, 13675.00000000
+CovPred-openMP padded, 17804.00000000
